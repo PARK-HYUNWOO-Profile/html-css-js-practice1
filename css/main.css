@@ -10,3 +10,9 @@ img {
     font-size: 20px;
     font-weight: bold;
   }
+
+div {
+  margin: 20px;
+  padding: 100px;
+  border: 1px solid black;
+}
